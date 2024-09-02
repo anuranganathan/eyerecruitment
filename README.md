@@ -1,7 +1,7 @@
 # eyerecruitment
 # Phishing Email Detector
 
-## video link: https://drive.google.com/drive/folders/16XC4RNgK0YIj3C2rV5l1mjixs4-UuOfI
+## video link: https://drive.google.com/file/d/16eNJkvWXWjQhi0fktht1jEtMRYlmLTmV/view?usp=sharing
 
 This repository contains a Python-based phishing email detection tool with a graphical user interface (GUI) built using Tkinter. The tool allows users to input email text and check for potential phishing attempts based on predefined keywords.
 
